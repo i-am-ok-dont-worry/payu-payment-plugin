@@ -1,9 +1,9 @@
 {
-  "name": "vsf-api-plugin-template",
+  "name": "payu-payment-plugin",
   "pluginname": "payu-payment-plugin",
   "companyname": "grupakmk",
   "version": "1.0.0",
-  "description": "Template for VSF api plugin",
+  "description": "PayU payment plugin for VSF api",
   "main": "src/index.js",
   "scripts": {
     "test": "test",
